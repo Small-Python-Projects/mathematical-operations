@@ -1,2 +1,2 @@
 # mathematical-operations
-A series of small projects that conduct simple mathematical operations. These were written when I first began using and experimenting with Python.
+A series of small projects that conduct simple mathematical operations. These were written when I first began using and experimenting with Python. As can be seen, my coding etiquette improves over time (although the files are not arranged in chronological order). Error handling can be seen in circle_area_calculation and square_root_calculation. Each file's function is exactly as described in it's title.
